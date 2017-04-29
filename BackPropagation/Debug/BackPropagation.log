@@ -1,0 +1,10 @@
+﻿  out.cpp
+c:\users\admin\desktop\backpropagation\backpropagation\out.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\desktop\backpropagation\backpropagation\out.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+  neural.cpp
+c:\users\admin\desktop\backpropagation\backpropagation\neural.cpp(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\desktop\backpropagation\backpropagation\neural.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  BackPropagation.vcxproj -> C:\Users\admin\Desktop\BackPropagation\Debug\BackPropagation.exe
+  BackPropagation.vcxproj -> C:\Users\admin\Desktop\BackPropagation\Debug\BackPropagation.pdb (Full PDB)
